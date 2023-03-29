@@ -1,0 +1,2 @@
+# mjart
+MidJourney Art Images
